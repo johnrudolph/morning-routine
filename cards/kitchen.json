@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Coffee",
+        "color": "Nectar of the gods.",
+        "effect": "Reveal immediately after performing an action. Immediately clean the room.",
+        "points": 1
+    },
+    {
+        "name": "Energy Drink",
+        "color": "Let's get this party started!",
+        "effect": "Reveal immediately after moving into a room. Immediately perform an action there.",
+        "points": 1
+    },
+    {
+        "name": "Oatmeal",
+        "color": "A healthy breakfast that runs right through you.",
+        "effect": "If you have two toilet cards at the end of the game, this card is worth 5 points. Otherwise, it's worth 0 points.",
+        "points": "?"
+    },
+    {
+        "name": "Scapegoat",
+        "color": "It's a little gamey, but it's good for you.",
+        "effect": "After successfully challenging another player, they must take your face-up penalty cards in addition to any they gained from their room.",
+        "points": 1
+    }
+]

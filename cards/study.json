@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Avoidant Behavior",
+        "color": "A beginner's guide to not being a grownup.",
+        "effect": "Reveal when performing an action. Choose another player. Place your mess card in their envelope instead of the one you're currently in.",
+        "points": -1
+    },
+    {
+        "name": "Geolocation for Dummies",
+        "color": "Find my friends",
+        "effect": "Reveal during your turn. You may look at one player's room envelope.",
+        "points": 2
+    },
+    {
+        "name": "Intermittent Fasting",
+        "color": "It's not a real diet unless you refuse to shut up about it.",
+        "effect": "At the end of the game, if you have 0 food cards, this card is worth 5 points. Otherwise, it's worth 0 points.",
+        "points": "?"
+    },
+    {
+        "name": "Misdirection",
+        "color": "Everybody loves a magician.",
+        "effect": "Reveal when challenged. Flip a coin. Heads, the challenge is ignored. Tails, the challenge is accepted.",
+        "points": 1
+    },
+    {
+        "name": "Reverse Psychology 101",
+        "color": "You're never in the wrong if someone else is wronger.",
+        "effect": "Reveal when challenged. Instead of answering the challenge, immediately challenge another player instead",
+        "points": 1
+    },
+    {
+        "name": "The Art of Finger Pointing.",
+        "color": "...",
+        "effect": "Reveal when you are successfully challenged. Choose any opponent. They must reveal their hand to you. If their hand contains a card from your room, they must reveal their room to everyone and accept your penalty instead of you. This does not apply to their revealed cards.",
+        "points": 1
+    },
+    {
+        "name": "...",
+        "color": "...",
+        "effect": "Reveal during your turn, and guess which room a player is in (cannot guess the Hallway). They must show you their room. If you were right, they must reveal their room to everyone. If you are wrong, you must reveal your room to everyone.",
+        "points": 2
+    }
+]

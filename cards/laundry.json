@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Boss suit",
+        "color": "Show them who is boss.",
+        "description": "When challenged ignore the challenge and move on.",
+        "points": 1
+    },
+    {
+        "name": "Cat burglar outfit",
+        "color": "Always smart to dress like a criminal.",
+        "description": "Reveal during your turn to steal a revealed card from another player.",
+        "points": -1
+    },
+    {
+        "name": "Janitor's uniform",
+        "color": "Clean up on aisle 6!",
+        "effect": "At the end of the game, reveal the cards in the Bathroom. If it contains 0 mess cards, this is worth 5 points. Otherwise, it's worth 0 points.",
+        "points": "?"
+    },
+    {
+        "name": "Lucky socks",
+        "color": "Luck is what happens when preparation meets opportunity.",
+        "effect": "When incorrectly challenged, reveal this card. It is now worth 5 points. If you are never incorrectly challenged, this card is worth 0 points.",
+        "points": "?"
+    },
+    {
+        "name": "Pajamas",
+        "color": "You really should change.",
+        "effect": "Reveal: you cannot be challenged.",
+        "points": "-3"
+    },
+    {
+        "name": "Parachute pants",
+        "color": "Looking great is its own reward.",
+        "effect": "",
+        "points": 3
+    },
+    {
+        "name": "White linen suit",
+        "color": "Spotless, and soft to the touch. Conveys a sense of elegance.",
+        "description": "At the end of the game, if you have 0 penalty mess cards, this card is worth 5 points. Otherwise, it's worth 0 points.",
+        "points": "?"
+    }
+]
