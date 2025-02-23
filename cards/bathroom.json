@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Luxurious Shower",
+        "Flavor": "Do not, my friends, become addicted to hot water. Because it all belongs to me.",
+        "Points": 3
+    },
+    {
+        "Name": "Hot shave",
+        "Flavor": "Smooth as a baby's bottom.",
+        "Points": 2
+    },
+    {
+        "Name": "Morning constitutional",
+        "Flavor": "Even had time to do the crossword!",
+        "Points": 2
+    },
+    {
+        "Name": "Tough morning",
+        "Flavor": "Everything ok in there?",
+        "Points": 1
+    },
+    {
+        "Name": "Unintentional cold plunge",
+        "Flavor": "Who needs coffee when you've got this?",
+        "Points": 1
+    }
+]

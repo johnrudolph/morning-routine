@@ -1,44 +1,38 @@
 [
     {
-        "name": "Avoidant Behavior",
-        "color": "A beginner's guide to not being a grownup.",
-        "effect": "Reveal when performing an action. Choose another player. Place your mess card in their envelope instead of the one you're currently in.",
-        "points": -1
+        "Name": "Avoidant Behavior",
+        "Flavor": "A beginner's guide to not being a grownup.",
+        "Effect": "Reveal when performing an action. Choose another player. Place your mess card in their envelope instead of the room you're currently in.",
+        "Points": -1
     },
     {
-        "name": "Geolocation for Dummies",
-        "color": "Find my friends",
-        "effect": "Reveal during your turn. You may look at one player's room envelope.",
-        "points": 2
+        "Name": "Geolocation for Dummies",
+        "Flavor": "You can run but you can't hide.",
+        "Effect": "Reveal during your turn. You may look at one player's room envelope. Do not open the envelope, only look at the outside.",
+        "Points": 2
     },
     {
-        "name": "Intermittent Fasting",
-        "color": "It's not a real diet unless you refuse to shut up about it.",
-        "effect": "At the end of the game, if you have 0 food cards, this card is worth 5 points. Otherwise, it's worth 0 points.",
-        "points": "?"
+        "Name": "Intermittent Fasting",
+        "Flavor": "It's not a real diet unless you tell everyone about it.",
+        "Effect": "At the end of the game, if you have 0 food cards, this card is worth 3 points. Otherwise, it's worth 0 points.",
+        "Points": "?"
     },
     {
-        "name": "Misdirection",
-        "color": "Everybody loves a magician.",
-        "effect": "Reveal when challenged. Flip a coin. Heads, the challenge is ignored. Tails, the challenge is accepted.",
-        "points": 1
+        "Name": "Fatalism",
+        "Flavor": "Everybody loves a philosopher.",
+        "Effect": "Reveal when challenged, after your opponent has guessed a room. Flip a coin. Heads: the challenge is ignored. Tails: the challenge is successful.",
+        "Points": 1
     },
     {
-        "name": "Reverse Psychology 101",
-        "color": "You're never in the wrong if someone else is wronger.",
-        "effect": "Reveal when challenged. Instead of answering the challenge, immediately challenge another player instead",
-        "points": 1
+        "Name": "The Art of Finger Pointing.",
+        "Flavor": "You're never in the wrong if someone else is wronger.",
+        "Effect": "Reveal when you are successfully challenged. Choose any opponent. They must reveal their face-down reward cards to you. If they have a face-down card from your room, they must accept the mess cards from your room.",
+        "Points": 1
     },
     {
-        "name": "The Art of Finger Pointing.",
-        "color": "...",
-        "effect": "Reveal when you are successfully challenged. Choose any opponent. They must reveal their hand to you. If their hand contains a card from your room, they must reveal their room to everyone and accept your penalty instead of you. This does not apply to their revealed cards.",
-        "points": 1
-    },
-    {
-        "name": "...",
-        "color": "...",
-        "effect": "Reveal during your turn, and guess which room a player is in (cannot guess the Hallway). They must show you their room. If you were right, they must reveal their room to everyone. If you are wrong, you must reveal your room to everyone.",
-        "points": 2
+        "Name": "Art of War",
+        "Flavor": "Always know where your enemy is.",
+        "Effect": "Reveal during your turn, and guess which room a player is in (cannot guess the Hallway). They must show you their room. If you were right, they must reveal their room to everyone. If you are wrong, you must reveal your room to everyone.",
+        "Points": 2
     }
 ]

@@ -1,26 +1,38 @@
 [
     {
-        "name": "Coffee",
-        "color": "Nectar of the gods.",
-        "effect": "Reveal immediately after performing an action. Immediately clean the room.",
-        "points": 1
+        "Name": "Coffee",
+        "Flavor": "The socially acceptable drug of choice.",
+        "Effect": "Reveal immediately after performing an action. Immediately clean your room without taking an extra turn.",
+        "Points": 1
     },
     {
-        "name": "Energy Drink",
-        "color": "Let's get this party started!",
-        "effect": "Reveal immediately after moving into a room. Immediately perform an action there.",
-        "points": 1
+        "Name": "Energy Drink",
+        "Flavor": "Here for a good time, not a long time.",
+        "Effect": "Reveal immediately after moving into a room. Immediately perform an action there without taking an extra turn.",
+        "Points": 1
     },
     {
-        "name": "Oatmeal",
-        "color": "A healthy breakfast that runs right through you.",
-        "effect": "If you have two toilet cards at the end of the game, this card is worth 5 points. Otherwise, it's worth 0 points.",
-        "points": "?"
+        "Name": "Enforcer's donut",
+        "Flavor": "What are you a cop now?",
+        "Effect": "Reveal when challenging another player. Your challenge is automatically successful, and you do not need to guess a room.",
+        "Points": 1
     },
     {
-        "name": "Scapegoat",
-        "color": "It's a little gamey, but it's good for you.",
-        "effect": "After successfully challenging another player, they must take your face-up penalty cards in addition to any they gained from their room.",
-        "points": 1
+        "Name": "Juice cleanse",
+        "Flavor": "Cleanliness begins from within.",
+        "Effect": "Reveal at the end of the game. You may discard this card and one of your face-up mess cards as well. Neither will count towards your score.",
+        "Points": 1
+    },
+    {
+        "Name": "Oatmeal",
+        "Flavor": "A healthy breakfast that runs right through you.",
+        "Effect": "If you have two bathroom cards at the end of the game, this card is worth 5 points. Otherwise, it's worth 0 points.",
+        "Points": "?"
+    },
+    {
+        "Name": "Scapegoat",
+        "Flavor": "It's a little gamey, but it's good for you.",
+        "Effect": "Reveal after successfully challenging another player. Place one of your face-up mess cards in front of them.",
+        "Points": 1
     }
 ]

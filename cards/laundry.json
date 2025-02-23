@@ -1,44 +1,38 @@
 [
     {
-        "name": "Boss suit",
-        "color": "Show them who is boss.",
-        "description": "When challenged ignore the challenge and move on.",
-        "points": 1
+        "Name": "Boss suit",
+        "Flavor": "Show them who wears the pinstriped pants around here.",
+        "Effect": "Reveal when challenged. Ignore the challenge and move on.",
+        "Points": 1
     },
     {
-        "name": "Cat burglar outfit",
-        "color": "Always smart to dress like a criminal.",
-        "description": "Reveal during your turn to steal a revealed card from another player.",
-        "points": -1
+        "Name": "Cat burglar outfit",
+        "Flavor": "Always smart to dress like a criminal.",
+        "Effect": "Reveal during your turn to steal a revealed card from another player. Keep it face-down. You may reveal it again in the future.",
+        "Points": -1
     },
     {
-        "name": "Janitor's uniform",
-        "color": "Clean up on aisle 6!",
-        "effect": "At the end of the game, reveal the cards in the Bathroom. If it contains 0 mess cards, this is worth 5 points. Otherwise, it's worth 0 points.",
-        "points": "?"
+        "Name": "Janitor's uniform",
+        "Flavor": "Clean up on aisle 6!",
+        "Effect": "At the end of the game, reveal the cards in the Bathroom envelope. If it contains 0 mess cards, this is worth 5 points. Otherwise, it's worth 0 points.",
+        "Points": "?"
     },
     {
-        "name": "Lucky socks",
-        "color": "Luck is what happens when preparation meets opportunity.",
-        "effect": "When incorrectly challenged, reveal this card. It is now worth 5 points. If you are never incorrectly challenged, this card is worth 0 points.",
-        "points": "?"
+        "Name": "Lucky socks",
+        "Flavor": "Luck is what happens when wealth meets nepotism.",
+        "Effect": "Reveal when you are challenged, but they guess the wrong room. This card is then worth 5 points. If you are never incorrectly challenged, this card is worth 0 points.",
+        "Points": "?"
     },
     {
-        "name": "Pajamas",
-        "color": "You really should change.",
-        "effect": "Reveal: you cannot be challenged.",
-        "points": "-3"
+        "Name": "Parachute pants",
+        "Flavor": "Looking great is its own reward.",
+        "Effect": "",
+        "Points": 3
     },
     {
-        "name": "Parachute pants",
-        "color": "Looking great is its own reward.",
-        "effect": "",
-        "points": 3
-    },
-    {
-        "name": "White linen suit",
-        "color": "Spotless, and soft to the touch. Conveys a sense of elegance.",
-        "description": "At the end of the game, if you have 0 penalty mess cards, this card is worth 5 points. Otherwise, it's worth 0 points.",
-        "points": "?"
+        "Name": "White linen suit",
+        "Flavor": "Spotless, and soft to the touch. Quite dashing.",
+        "Effect": "Reveal at the end of the game. If you have 0 face-up mess cards, this card is worth 5 points. Otherwise, it's worth 0 points.",
+        "Points": "?"
     }
 ]
