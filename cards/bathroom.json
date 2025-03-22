@@ -1,13 +1,25 @@
 [
     {
-        "Name": "Luxurious Shower",
-        "Flavor": "Do not, my friends, become addicted to hot water. Because it all belongs to me.",
-        "Points": 3
+        "Name": "Hand sanitizer",
+        "Flavor": "Flatten the curve, and your opponents.",
+        "Effect": "Reveal at the end of the game. Each of your mess cards has +1 points.",
+        "Points": "1"
     },
     {
         "Name": "Hot shave",
         "Flavor": "Smooth as a baby's bottom.",
         "Points": 2
+    },
+    {
+        "Name": "Luxurious Shower",
+        "Flavor": "Do not, my friends, become addicted to hot water. Because it all belongs to me.",
+        "Points": 3
+    },
+    {
+        "Name": "Mirror",
+        "Flavor": "Mirror, mirror, on the wall, who's worth the most points?",
+        "Effect": "Reveal at the end of the game. Choose one of your reward cards, and double its point value.",
+        "Points": "?"
     },
     {
         "Name": "Morning constitutional",

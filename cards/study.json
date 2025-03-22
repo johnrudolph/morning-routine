@@ -1,38 +1,62 @@
 [
     {
-        "Name": "Avoidant Behavior",
-        "Flavor": "A beginner's guide to not being a grownup.",
-        "Effect": "Reveal when performing an action. Choose another player. Place your mess card in their envelope instead of the room you're currently in.",
-        "Points": -1
-    },
-    {
-        "Name": "Geolocation for Dummies",
-        "Flavor": "You can run but you can't hide.",
-        "Effect": "Reveal during your turn. You may look at one player's room envelope. Do not open the envelope, only look at the outside.",
-        "Points": 2
-    },
-    {
-        "Name": "Intermittent Fasting",
-        "Flavor": "It's not a real diet unless you tell everyone about it.",
-        "Effect": "At the end of the game, if you have 0 food cards, this card is worth 3 points. Otherwise, it's worth 0 points.",
+        "Name": "Anarchist's Cookbook",
+        "Flavor": "Always know where your enemy is.",
+        "Effect": "Reveal at the end of the game. Open the Kitchen envelope. If it contains at least one mess card, this card is worth 4 points. Otherwise, it's worth 0 points.",
         "Points": "?"
-    },
-    {
-        "Name": "Fatalism",
-        "Flavor": "Everybody loves a philosopher.",
-        "Effect": "Reveal when challenged, after your opponent has guessed a room. Flip a coin. Heads: the challenge is ignored. Tails: the challenge is successful.",
-        "Points": 1
-    },
-    {
-        "Name": "The Art of Finger Pointing.",
-        "Flavor": "You're never in the wrong if someone else is wronger.",
-        "Effect": "Reveal when you are successfully challenged. Choose any opponent. They must reveal their face-down reward cards to you. If they have a face-down card from your room, they must accept the mess cards from your room.",
-        "Points": 1
     },
     {
         "Name": "Art of War",
         "Flavor": "Always know where your enemy is.",
-        "Effect": "Reveal during your turn, and guess which room a player is in (cannot guess the Hallway). They must show you their room. If you were right, they must reveal their room to everyone. If you are wrong, you must reveal your room to everyone.",
+        "Effect": "Reveal during your turn, and choose a player who has an envelope. Guess which room they are in. They must show you their envelope. If you were right, they must reveal their room to everyone. If you are wrong and you have an envelope, you must reveal your room to everyone.",
         "Points": 2
+    },
+    {
+        "Name": "Avoidant Behavior",
+        "Flavor": "A beginner's guide to not being a grownup.",
+        "Effect": "Reveal when taking a reward card. Choose a different envelope from the room deck. Place one of your mess cards in that envelope instead of the room you're currently in.",
+        "Points": 1
+    },
+    {
+        "Name": "Elementary Finger Pointing",
+        "Flavor": "You're never in the wrong if someone else is wronger.",
+        "Effect": "Reveal when a queued player successfully enters your room. Choose any opponent. They must show you all of their reward cards (including their facedown reward cards that have not been played). If they have a card from your room, they must accept the mess cards from your room.",
+        "Points": 1
+    },
+    {
+        "Name": "Fatalism",
+        "Flavor": "Everybody loves a philosopher.",
+        "Effect": "Reveal when you leave a room and someone says they are queued to enter that room. Do not even look at their queue card. Instead, flip a coin. Heads: they enter your room. Tails: they do not enter your room.",
+        "Points": 1
+    },
+    {
+        "Name": "Gambler's fallacy",
+        "Flavor": "It's not a game of chance, it's a game of skill.",
+        "Effect": "Reveal at the end of the game. Choose a player. They must play Rock, Paper, Scissors with you. The winner keeps this card.",
+        "Points": "4"
+    },
+    {
+        "Name": "Geolocation for Dummies",
+        "Flavor": "You can run but you can't hide.",
+        "Effect": "Reveal during your turn. You may look at an opponent's room envelope. Do not open the envelope, only look at the outside.",
+        "Points": 2
+    },
+    {
+        "Name": "Housekeeping Handbook",
+        "Flavor": "I want this place to shine like the top of the Chrysler Building!",
+        "Effect": "At the end of the game, reveal the cards in the Bathroom envelope. If it contains 0 mess cards, this is worth 5 points. Otherwise, it's worth 0 points.",
+        "Points": "?"
+    },
+    {
+        "Name": "How to build a trap door",
+        "Flavor": "Not just for theater kids anymore.",
+        "Effect": "Reveal during your turn while you are in a room. Choose another player. Swap room envelopes with them.",
+        "Points": 1
+    },
+    {
+        "Name": "Intermittent Fasting",
+        "Flavor": "It's not a real diet unless you tell everyone about it.",
+        "Effect": "At the end of the game, if you have 0 Kitchen cards, this card is worth 3 points. Otherwise, it's worth 0 points.",
+        "Points": "?"
     }
 ]

@@ -2,19 +2,25 @@
     {
         "Name": "Coffee",
         "Flavor": "The socially acceptable drug of choice.",
-        "Effect": "Reveal immediately after performing an action. Immediately clean your room without taking an extra turn.",
+        "Effect": "Reveal immediately after taking a reward card and replacing it with a mess card. Immediately clean your room.",
         "Points": 1
+    },
+    {
+        "Name": "Compost Bin",
+        "Flavor": "One man's egg shell is another man's worm food.",
+        "Effect": "Reveal at the end of the game. For you, negative mess cards are made positive. For example, if you have a -2 mess card, it now counts as +2 for you.",
+        "Points": 0
     },
     {
         "Name": "Energy Drink",
         "Flavor": "Here for a good time, not a long time.",
-        "Effect": "Reveal immediately after moving into a room. Immediately perform an action there without taking an extra turn.",
+        "Effect": "Reveal immediately after moving into a room. Immediately take a reward card and replace it with a mess card there.",
         "Points": 1
     },
     {
         "Name": "Enforcer's donut",
-        "Flavor": "What are you a cop now?",
-        "Effect": "Reveal when challenging another player. Your challenge is automatically successful, and you do not need to guess a room.",
+        "Flavor": "He's a cop now?",
+        "Effect": "Reveal when your are queued to enter a room, and another player is leaving their room. Do not even reveal your queue card. You immediately enter their room successfully.",
         "Points": 1
     },
     {
@@ -24,15 +30,33 @@
         "Points": 1
     },
     {
+        "Name": "Junk drawer",
+        "Flavor": "Sauce packets, dead batteries, and keys to nowhere.",
+        "Effect": "Reveal immediately upon taking this card. Shuffle all the reward cards in the game box (the cards not in use for this game). Each player draws one and keeps it in their hand.",
+        "Points": 2
+    },
+    {
+        "Name": "Molasses",
+        "Flavor": "Careful what you wish for.",
+        "Effect": "Reveal after a player successfully queues into your room. They must skip their next turn because they are stuck in molasses goop.",
+        "Points": 1
+    },
+    {
         "Name": "Oatmeal",
         "Flavor": "A healthy breakfast that runs right through you.",
-        "Effect": "If you have two bathroom cards at the end of the game, this card is worth 5 points. Otherwise, it's worth 0 points.",
+        "Effect": "Reveal at the end of the game. If you have two bathroom reward cards, this card is worth 5 points. Otherwise, it's worth 0 points.",
         "Points": "?"
+    },
+    {
+        "Name": "Recycling Bin",
+        "Flavor": "What's good for the environment is good for your wallet.",
+        "Effect": "Reveal on your turn. Select another player. They must show you the mess cards in their hand. Take one of them, and replace it with a mess card from your hand.",
+        "Points": 2 
     },
     {
         "Name": "Scapegoat",
         "Flavor": "It's a little gamey, but it's good for you.",
-        "Effect": "Reveal after successfully challenging another player. Place one of your face-up mess cards in front of them.",
+        "Effect": "Reveal after successfully queueing for a room and entering it. If you have any face-up mess cards in front of you, move one of them in front of the player who just left the room.",
         "Points": 1
     }
 ]

@@ -1,27 +1,39 @@
 [
     {
         "Name": "Boss suit",
-        "Flavor": "Show them who wears the pinstriped pants around here.",
-        "Effect": "Reveal when challenged. Ignore the challenge and move on.",
+        "Flavor": "Show them who wears the pinstripes around here.",
+        "Effect": "Reveal when a player attempts to queue into your room. Ignore the queue and return the room envelope to the room deck.",
         "Points": 1
     },
     {
         "Name": "Cat burglar outfit",
         "Flavor": "Always smart to dress like a criminal.",
-        "Effect": "Reveal during your turn to steal a revealed card from another player. Keep it face-down. You may reveal it again in the future.",
+        "Effect": "Reveal during your turn to steal a revealed reward card from another player. Keep it face-down. You may reveal it again in the future.",
         "Points": -1
     },
     {
         "Name": "Janitor's uniform",
         "Flavor": "Clean up on aisle 6!",
-        "Effect": "At the end of the game, reveal the cards in the Bathroom envelope. If it contains 0 mess cards, this is worth 5 points. Otherwise, it's worth 0 points.",
+        "Effect": "Reveal on your turn. Going forward, every time you clean a mess card, tuck it face-down under this card. For each card you tuck, this card gains +1 points.",
         "Points": "?"
     },
     {
         "Name": "Lucky socks",
         "Flavor": "Luck is what happens when wealth meets nepotism.",
-        "Effect": "Reveal when you are challenged, but they guess the wrong room. This card is then worth 5 points. If you are never incorrectly challenged, this card is worth 0 points.",
+        "Effect": "Reveal when another player attempts to queue into your room, but their queue card does not match the room you are in. This card is then worth 5 points. If this never happens, this card is worth 0 points.",
         "Points": "?"
+    },
+    {
+        "Name": "Librarian sweater",
+        "Flavor": "Dress for the job you want.",
+        "Effect": "Reveal at the end of the game. Open the Study envelope. If it contains at least one positive mess card, this card is worth 4 points. Otherwise, it's worth 0 points.",
+        "Points": "?"
+    },
+    {
+        "Name": "Monocle",
+        "Flavor": "Show them who wears the pinstripes around here.",
+        "Effect": "Reveal after leaving a room. Look at the room deck. You may open one envelope and read the cards inside. Put them back in the envelope and return it to the room deck.",
+        "Points": 2
     },
     {
         "Name": "Parachute pants",
@@ -30,9 +42,15 @@
         "Points": 3
     },
     {
+        "Name": "Rollerskates",
+        "Flavor": "What's old is new again.",
+        "Effect": "Reveal after leaving a room. Look at the room deck. You may immediately move into one of those rooms, or return them and stay in the Hallway.",
+        "Points": "1"
+    },
+    {
         "Name": "White linen suit",
         "Flavor": "Spotless, and soft to the touch. Quite dashing.",
-        "Effect": "Reveal at the end of the game. If you have 0 face-up mess cards, this card is worth 5 points. Otherwise, it's worth 0 points.",
+        "Effect": "Reveal at the end of the game. If you have 0 face-up mess cards, this card is worth 4 points. Otherwise, it's worth 0 points.",
         "Points": "?"
     }
 ]
