@@ -14,6 +14,8 @@ These cards reward you for finishing your morning routine faster.
 ## Queue cards
 Each player has a set of these. When you are waiting in the Hallway, you can leave one of these facedown to indicate that you are waiting in line for that room. Importantly, this is also how you bust other players for leaving a mess.
 
+When you have a queue card in play, you can change it at any time.
+
 ## Mess cards
 Every activity you do will leave a mess behind. Mess cards have different point values, so you'll have to choose how much of a mess you leave in each room.
 
