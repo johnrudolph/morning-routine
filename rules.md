@@ -19,6 +19,7 @@ Every activity you do will leave a mess behind. Mess cards have different point 
 1. Place the room envelopes in the center of the table, face down.
 2. Place the speed bonus cards in a face-up deck in descending order, so that the highest point value card is on top.
 3. Each player selects a collects a set of 4 mess cards with point values of -3, -2, -1, and +1.
+4. Determine a fist player. Whichever two players will go last start the game with a random room envelope.
 
 # Gameplay
 Determine a first player. 
