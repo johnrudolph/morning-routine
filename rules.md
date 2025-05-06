@@ -36,7 +36,7 @@ At the beginning of the game, you have no room envelope, which means you are in 
 If your turn starts and you are in the Hallway, you can look at all of the facedown room envelopes. Then you can do one of the following:
 
 #### Enter a room
-Select an envelope to keep, and leave the rest facedown. 
+Select an envelope to keep, and leave the rest facedown. When doing this, move your queue card back into your hand to show that you are no longer queued.
 
 #### Go to school
 If you are satisfied with how many points you have, you can leave from the Hallway and end your game. Take the next available Speed Bonus card and place it in front of you to indicate that you are done and will not take any more turns.
