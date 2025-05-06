@@ -30,7 +30,7 @@ Determine a first player.
 On your turn, you will do one of the following:
 
 ### From the hallway
-At the beginning of the game, you have no room envelope, which means you are in the hallway. After you leave any room, you will return to the Hallway. Here are the actions you can take from the Hallway. When it is your turn in the Hallway, you may always: 
+At the beginning of the game, you have no room envelope, which means you are in the hallway. After you leave any room, you will return to the Hallway. When you begin your turn in the Hallway, you may always look at the facedown room envelopes. Here are the actions you can take from the Hallway. When it is your turn in the Hallway, you may always: 
 
 - Look at the facedown room envelopes in the room deck
 - Place / Change one of your queue cards facedown in front of you to indicate which room you are waiting to enter. 
