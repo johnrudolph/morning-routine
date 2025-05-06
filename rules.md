@@ -6,6 +6,8 @@ Each room is an envelope. There are also 8 hallways envelopes. You will always h
 ## Reward cards
 Each room has reward cards. Players collect these as they complete activities in the room. All reward cards have a point value, which will count toward your final score. Most reward cards have a special effect that will help you outsmart your opponents. These cards will tell you when they can be revealed. Once one of those cards has been revealed, it cannot be used again, but will still count toward your points at the end.
 
+Always keep reward cards and mess cards in your hand so players can clearly see how many of each you have.
+
 ## Speed bonus cards
 These cards reward you for finishing your morning routine faster. 
 
