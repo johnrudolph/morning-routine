@@ -60,6 +60,8 @@ Remove any mess cards from your room envelope you choose, and place them face-up
   - If their queue card matches your envelope, you must give them the envelope. They have immediately entered the room you left. They can now open the envelope, and reveal all mess cards in the room. You must inherit any mess cards they discovered in the room. Leave these faceup in front of you as  for the rest of the game. These mess cards will count toward your final score.
   - If their queue card did not match your envelope, return your envelope to the room envelope deck, they return their queue card facedown in front of them, and the game proceeds as usual. 
 
+If multiple players are queued for rooms, they should reveal their queue cards to the player returning to the hallway in counterclockwise order (the opposite direction of turn order). The first player with a queue card that matches the room successfully queues into it.
+
 ## End of the morning
 Once all players have gone to school, players will take turns revealing any of their rewards that have not been revealed. Beginning with the player with the highest Speed Bonus card, and continuing in descending order, each player will do the following: 
 
